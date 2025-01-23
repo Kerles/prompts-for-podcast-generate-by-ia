@@ -43,9 +43,15 @@ Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através
 - Sincronização do Aúdio e sons de fundo via Capcut
 
 ## 📚 Materiais
-<div align="center">
-    <audio src="output/sophi.m4a" controls title="Versaoferminina"></audio>
-</div>
+Aúdios gerados em `output`
+
+<p align="center">
+    Preview do podcast
+</p>
+
+
+https://github.com/user-attachments/assets/7b93e1d5-4e72-46ac-8765-cd0528d17417
+
 
 
 ## 🛠️ Instruções de execução
